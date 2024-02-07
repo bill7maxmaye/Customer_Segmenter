@@ -1,0 +1,1 @@
+This project implements a customer segmenter using the K-Means clustering algorithm. The goal is to group customers into distinct segments based on their purchasing behavior, enabling businesses to tailor marketing strategies for each segment.
